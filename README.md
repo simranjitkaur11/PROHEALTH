@@ -1,8 +1,8 @@
 # PROHEALTH
 # Week 1: Initial Setup & Patient System Development
-Day 1: Planned the entire project, listed objectives, and created a development timeline.
+Day 1: Planned the entire project, listed objectives, analyse timelines.
 
-Day 2: Researched hospital management systems, existing appointment and bed allocation solutions, and noted the essential features to include.
+Day 2: Researched hospital management systems like fortis, apollo, prolife hospital websites , existing appointment and bed allocation solutions, and noted the essential features to include.
 
 Day 3: Started working on the patient self-enrollment module, designed the UI for registration and login pages.
 
